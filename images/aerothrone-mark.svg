@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <title>AeroThrone aerodynamic A mark</title>
+  <path d="M9 37 17.3 12h13.4L39 37" stroke="#4EDEA3" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M14.7 27h18.6M19.8 19.5h8.4" stroke="#4EDEA3" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M18 33.5c2 2.1 4 3.1 6 3.1s4-1 6-3.1" stroke="#DAE2FD" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M24 12v17" stroke="#DAE2FD" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="24" cy="24" r="21.2" stroke="#4EDEA3" stroke-opacity=".2" stroke-width="1.2"/>
+</svg>
